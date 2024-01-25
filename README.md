@@ -2,13 +2,21 @@
 
 .env file 
 AZURE_EVENTHUBS_NAMESPACE
+
 AZURE_STORAGE_ACCOUNT_NAME
+
 AZURE_STORAGE_CONTAINER_NAME
+
 AZURE_EVENTHUB_NAME
+
 AZURE_EVENTHUB_CONSUMER_GROUP="$Default"
+
 AZURE_CLIENT_ID
+
 AZURE_CLIENT_SECRET
+
 AZURE_TENANT_ID
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
