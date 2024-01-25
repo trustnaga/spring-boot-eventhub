@@ -1,6 +1,7 @@
 # Getting Started
 
 .env file 
+
 AZURE_EVENTHUBS_NAMESPACE
 
 AZURE_STORAGE_ACCOUNT_NAME
